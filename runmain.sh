@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./runindocker.sh sh -c "cmake . && make && ./src/main $@"
+./runindocker.sh sh -c "cmake . && make && env \$(cat .env) ./src/main $@"

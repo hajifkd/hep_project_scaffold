@@ -10,3 +10,4 @@ CTestTestfile.cmake
 
 src/main
 _*
+.env

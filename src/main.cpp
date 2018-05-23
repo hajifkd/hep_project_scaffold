@@ -1,7 +1,7 @@
 #include <iostream>
 #include "classes/DelphesClasses.h"
 #include "TChain.h"
-#include "external/ExRootAnalysis/ExRootTreeReader.h"
+#include "ExRootAnalysis/ExRootTreeReader.h"
 
 
 int main(int argc, char** argv) {
