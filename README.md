@@ -10,7 +10,6 @@ As long as `docker` command is installed, the project is guaranteed to run *anyw
 ## Prerequisite
 
 * Install Docker
-    * Note that it is recommended for you to belong `docker` group.
 * Update image `hfukuda/madgraph`
 
 ```bash
